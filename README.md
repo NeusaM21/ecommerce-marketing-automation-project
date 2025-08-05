@@ -167,7 +167,7 @@ Este projeto inclui arquivos fictícios para simular cenários reais de e-commer
 
 ---
 
-## Autor 👤
+## Autor <a id="autor"></a> 👤
 
 [**NeusaM21**](https://github.com/NeusaM21)  
 Desenvolvedora Python focada em projetos de automação e IA  
