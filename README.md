@@ -1,5 +1,5 @@
-📖 Você está lendo a versão em Português desta descrição de projeto.  
-🇺🇸 English version available here: [README.en.md](README.en.md)
+📄 Você está lendo a versão em Português desta descrição de projeto.  
+🌐 English version available here: [README.en.md](README.en.md)
 
 ---
 
