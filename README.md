@@ -21,7 +21,7 @@
 - [🔍 Problema Endereçado](#-problema-endereçado)
 - [🎯 Objetivos da Automação](#-objetivos-da-automação)
 - [🎯 Público-Alvo](#-público-alvo)
-- [✨ Funcionalidades Principais](#-funcionalidades-principais)
+- [🚀 Funcionalidades Estratégicas da Automação](#-funcionalidades-estratégicas-da-automação)
 - [🛠️ Tecnologias e Ferramentas Utilizadas](#️-tecnologias-e-ferramentas-utilizadas)
 - [🚀 Demonstração](#-demonstração)
 - [⚙️ Como o Projeto Funciona](#️-como-o-projeto-funciona-para-desenvolvedoresanalisadores)
@@ -67,15 +67,22 @@ Este projeto foi desenvolvido com foco nos seguintes perfis:
 
 ---
 
-## ✨ Funcionalidades Principais
+## 🚀 Funcionalidades Estratégicas da Automação
 
-O sistema de automação implementa os seguintes fluxos e capacidades:
+🔄 **Recuperação Inteligente de Carrinhos Abandonados**  
+Envia e-mails automáticos personalizados para trazer o cliente de volta.
 
-1. **Sequência de E-mails de Recuperação de Carrinho**
-2. **Fluxo de Boas-Vindas e Pós-Compra**
-3. **Lead Scoring com Python**
-4. **Notificações Automatizadas via WhatsApp (simulado)**
-5. **Relatórios de Performance com Python**
+👋 **Fluxo de Boas-Vindas e Fidelização Pós-Compra**  
+Garante uma jornada positiva do cliente, aumentando chances de recompra.
+
+📊 **Lead Scoring com Python**  
+Identifica os leads mais qualificados e prioriza ações de marketing.
+
+📲 **Notificações Simuladas via WhatsApp**  
+Demonstra como automatizar mensagens de acompanhamento em tempo real.
+
+📈 **Relatórios de Performance em Python**  
+Monitora métricas de conversão e engajamento com dashboards e gráficos.
 
 ---
 
