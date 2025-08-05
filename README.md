@@ -27,7 +27,7 @@
 - [⚙️ Como o Projeto Funciona](#️-como-o-projeto-funciona-para-desenvolvedoresanalisadores)
 - [📚 Documentação Detalhada](#-documentação-detalhada)
 - [📊 Dados de Exemplo](#-dados-de-exemplo)
-- [👤 Autor](#-autor)
+- [👤 Autor](#autor)
 - [📄 Licença](#-licença)
 
 ## 📝 Visão Geral do Projeto
@@ -167,7 +167,7 @@ Este projeto inclui arquivos fictícios para simular cenários reais de e-commer
 
 ---
 
-## 👤 Author
+## 👤 Autor
 
 [**NeusaM21**](https://github.com/NeusaM21)  
 Desenvolvedora Python focada em projetos de automação e IA  
