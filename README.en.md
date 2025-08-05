@@ -1,5 +1,5 @@
 📖 You’re reading the English version of this project description.  
-🇧🇷 Versão em Português disponível aqui: [README.md](README.md)
+🇧🇷 Prefer to read in Portuguese? Click here: [README.md](README.md)
 
 ---
 
@@ -21,7 +21,7 @@
 - [🔍 Problem Addressed](#-problem-addressed)
 - [🎯 Automation Goals](#-automation-goals)
 - [🎯 Target Audience](#-target-audience)
-- [✨ Key Features](#-key-features)
+- [🚀 Key Automation Features](#-key-automation-features)
 - [🛠️ Technologies & Tools Used](#️-technologies--tools-used)
 - [🚀 Demo](#-demo)
 - [⚙️ How the Project Works (For Developers/Analysts)](#️-how-the-project-works-for-developersanalysts)
@@ -29,6 +29,8 @@
 - [📊 Sample Data](#-sample-data)
 - [👤 Author](#-author)
 - [📄 License](#-license)
+
+---
 
 ## 📝 Project Overview
 
@@ -67,15 +69,15 @@ This project is designed for:
 
 ---
 
-## ✨ Key Features
+## 🚀 Key Automation Features
 
 The automation system includes the following flows and capabilities:
 
-1. **Cart Recovery Email Sequence**
-2. **Welcome and Post-Purchase Flow**
-3. **Lead Scoring with Python**
-4. **Automated WhatsApp Notifications (simulated)**
-5. **Performance Reports with Python**
+1. **Cart Recovery Email Sequence** — Re-engages customers who abandoned their carts.
+2. **Welcome and Post-Purchase Flow** — Improves customer experience and loyalty after purchase.
+3. **Lead Scoring with Python** — Scores leads based on behavior and interaction.
+4. **Automated WhatsApp Notifications (Simulated)** — Simulates personalized alerts and messages.
+5. **Performance Reports with Python** — Generates metrics and insights on conversions and engagement.
 
 ---
 
@@ -169,7 +171,7 @@ This project includes fictional files to simulate real e-commerce scenarios. The
 
 ## 👤 Author
 
-[**NeusaM21**](https://github.com/NeusaM21) 
+[**NeusaM21**](https://github.com/NeusaM21)  
 Python Developer focused on Automation and AI Projects  
 📧 [Email](mailto:contact.neusam21@gmail.com)
 
