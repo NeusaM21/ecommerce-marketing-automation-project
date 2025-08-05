@@ -169,7 +169,7 @@ This project includes fictional files to simulate real e-commerce scenarios. The
 
 ## 👤 Author
 
-**NeusaM21**  
+[**NeusaM21**](https://github.com/NeusaM21) 
 Python Developer focused on Automation and AI Projects  
 📧 [Email](mailto:contact.neusam21@gmail.com)
 
