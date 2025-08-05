@@ -1,3 +1,8 @@
+📖 Você está lendo a versão em Português desta descrição de projeto.  
+🇺🇸 English version available here: [README.en.md](README.en.md)
+
+---
+
 # 🛒 Automação Inteligente para E-commerce
 
 ### Conversão de Carrinhos e Fidelização 🚀
@@ -162,10 +167,10 @@ Este projeto inclui arquivos fictícios para simular cenários reais de e-commer
 
 ---
 
-## 👤 Autor
+## 👤 Author
 
-**NeusaM21**  
-Dev Python com foco em Automação e Projetos de IA  
+[**NeusaM21**](https://github.com/NeusaM21)  
+Desenvolvedora Python focada em projetos de automação e IA  
 📧 [Email](mailto:contact.neusam21@gmail.com)
 
 ---
