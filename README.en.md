@@ -83,12 +83,12 @@ The automation system includes the following flows and capabilities:
 
 ## 🛠️ Technologies & Tools Used
 
-- **Shopify (Simulated)** – cart abandonment and purchase events
-- **Klaviyo** – email flows, segmentation, and personalization
-- **Python** – automations, reporting, and API integrations
-- **Zapier / Make (No-Code - Simulated)** – tool integrations
-- **Google Sheets / CSV/XLSX** – data simulation and results
-- **Git & GitHub** – version control and hosting
+- **[Shopify (Simulated)](https://www.shopify.com/)** – cart abandonment and purchase events.
+- **[Klaviyo](https://www.klaviyo.com/)** – email flows, segmentation, and personalization.
+- **[Python](https://www.python.org/)** – automations, reporting, and API integrations.
+- **[Zapier](https://zapier.com/)** / **[Make (No-Code - Simulated)](https://www.make.com/)** – tool integrations.
+- **[Google Sheets / CSV/XLSX](https://www.google.com/sheets/about/)** – data simulation and results.
+- **[Git & GitHub](https://github.com/)** – version control and hosting.
 
 ---
 
