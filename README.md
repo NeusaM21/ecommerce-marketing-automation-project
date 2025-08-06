@@ -187,3 +187,10 @@ Desenvolvedora Python focada em projetos de automação e IA
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT – veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+---
+
+## 🔙 Voltar
+
+[⬅️ Voltar para o portfólio principal](https://github.com/NeusaM21)
+
