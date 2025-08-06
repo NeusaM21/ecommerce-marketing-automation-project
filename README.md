@@ -88,12 +88,14 @@ Monitora métricas de conversão e engajamento com dashboards e gráficos.
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
-- **Shopify (Simulado)** – eventos de abandono de carrinho e compra
-- **Klaviyo** – fluxos de e-mails, segmentação e personalização
-- **Python** – automações, relatórios e integração com APIs
-- **Zapier / Make (No-Code - Simulado)** – automações entre ferramentas
-- **Google Sheets / CSV/XLSX** – simulação de dados e resultados
-- **Git & GitHub** – controle de versão e hospedagem
+Este projeto utiliza as seguintes tecnologias para simular fluxos de automação de e-commerce:
+
+- **[Shopify (Simulado)](https://www.shopify.com.br/)** – eventos de abandono de carrinho e compra.
+- **[Klaviyo](https://www.klaviyo.com/)** – fluxos de e-mails, segmentação e personalização.
+- **[Python](https://www.python.org/)** – automações, relatórios e integrações com APIs.
+- **[Zapier](https://zapier.com/)** / **[Make (No-Code)](https://www.make.com/)** – automações entre ferramentas.
+- **[Google Sheets / CSV/XLSX](https://www.google.com/sheets/about/)** – simulação de dados e relatórios.
+- **[Git & GitHub](https://github.com/)** – controle de versão e hospedagem do projeto.
 
 ---
 
